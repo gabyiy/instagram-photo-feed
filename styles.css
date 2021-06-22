@@ -1,0 +1,29 @@
+.marg-l{
+  margin-left: 10%;
+}
+.marg-r{
+    margin-right: 10% !important;
+}
+.dFlex{
+    display: flex;
+    
+}
+.left{
+    padding-left:30%;
+}
+.sep1{
+  
+   width: 40%;
+   padding-left: 4px;
+   height: 20%;
+   margin-bottom:1rem ;
+}
+.sep2{
+   margin-left: 1em;
+   width: 40%;
+   padding-left: 4px;
+   height: 20%;
+}
+.leftIcon{
+    margin-left: 10px;
+}
