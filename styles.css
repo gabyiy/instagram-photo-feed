@@ -27,3 +27,10 @@
 .leftIcon{
     margin-left: 10px;
 }
+.center-pills {
+    display: flex;
+    justify-content: center;
+}
+.toggler{
+    margin-top: 5%;
+}
