@@ -40,3 +40,22 @@
 .wid{
     width: 100%;
 }
+.imgSecondTab{
+     min-width: 100%;
+    min-height: 100%;
+}
+.fluid{
+display: flex;
+}
+.wi{
+    width:93%;
+}
+.favDiv{
+    width: 10%;
+}
+.far{
+    font-size: 200%;
+}
+.w100{
+    width: 100%;
+}
